@@ -1,0 +1,19 @@
+{
+  "name": "zanata-css-theme",
+  "version": "1.0.0",
+  "description": "The default the for all Zanata projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lukebrooker/zanata-css-theme"
+  },
+  "author": "Luke Brooker",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/lukebrooker/zanata-css-theme/issues"
+  },
+  "homepage": "https://github.com/lukebrooker/zanata-css-theme"
+}
