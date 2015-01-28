@@ -279,15 +279,18 @@
  */
 
 :root {
-  --Progressbar-rhythm           : var(--rhythm);
-  --Progressbar-highlight        : var(--color-highlight);
-  --Progressbar-success          : var(--color-success);
-  --Progressbar-unsure           : var(--color-unsure);
-  --Progressbar-neutral          : var(--color-neutral);
-  --Progressbar-warning          : var(--color-warning);
-  --Progressbar-danger           : var(--color-danger);
-  --Progressbar-item-z-index     : var(--z-scale-1);
-  --Progressbar-approved-z-index : var(--z-scale-2);
+  --Progressbar-rhythm             : var(--rhythm);
+  --Progressbar-highlight          : var(--color-highlight);
+  --Progressbar-success            : var(--color-success);
+  --Progressbar-unsure             : var(--color-unsure);
+  --Progressbar-neutral            : var(--color-neutral);
+  --Progressbar-warning            : var(--color-warning);
+  --Progressbar-danger             : var(--color-danger);
+  --Progressbar-item-z-index       : var(--z-scale-1);
+  --Progressbar-translated-z-index : var(--z-scale-2);
+  --Progressbar-needswork-z-index  : var(--z-scale-2);
+  --Progressbar-approved-z-index   : var(--z-scale-3);
+
 }
 
 
